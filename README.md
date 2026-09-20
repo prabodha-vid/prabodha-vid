@@ -29,8 +29,7 @@ A Computer Science Undergraduate at the University of Kelaniya with a strong pas
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prabodha-vid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/><br/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=prabodha-vid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabodha-vid&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
