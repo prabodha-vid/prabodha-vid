@@ -34,7 +34,7 @@ A passionate Computer Science undergraduate and developer dedicated to building 
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/prabodha-vidyarathna-4a3a7538b)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/prabodha-vidyarathna-4a3a7538b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
